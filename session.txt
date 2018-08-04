@@ -1,0 +1,4 @@
+3 important commands
+git commit 
+git push 
+git pull
